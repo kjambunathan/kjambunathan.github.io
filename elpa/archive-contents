@@ -3,10 +3,8 @@
 			 [(1 2 2)
 			  nil "Jabref Plugin for export to Chicago Manual of Style in OpenDocumentFormat" tar nil])
  (ox-odt .
-	 [(9 3 7 362)
+	 [(9 5 2 368)
 	  ((org
-	    (9 3 7))
-	   (JabrefExportChicagoODF
-	    (1 2 1)))
+	    (9 5 2)))
 	  "OpenDocument Text Exporter for Org Mode" tar nil]))
 
